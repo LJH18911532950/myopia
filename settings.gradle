@@ -1,0 +1,3 @@
+include ':day_text'
+include ':app'
+rootProject.name = "Classroom"
